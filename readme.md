@@ -1753,6 +1753,5 @@ A solução proposta não apenas moderniza o negócio da Dona Jo, mas estabelece
 
 A arquitetura escolhida, combinando tecnologias modernas e práticas ágeis, permite que a Dona Jo expanda sua presença de forma consistente por todo o Brasil, adaptando-se às peculiaridades de cada região enquanto mantém a qualidade e eficiência que a tornaram referência em seu mercado de atuação.
 
----
-*Fim do Documento*
+
 
